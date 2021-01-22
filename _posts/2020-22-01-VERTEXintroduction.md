@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 # Synaptic Plasticity Guide
 
@@ -21,5 +21,3 @@ This extension to the VERTEX simulator2 aims to combine our current knowledge of
 - Implementing two models of short term synaptic plasticity and spike timing dependent plasticity. 
 - How to use this tool to look at the overall workflow involved in setting up a simulation (including a stimulating electrode and synaptic plasticity), illustrated by an example simulation of stimulation in rat neocortex. 
 - How we calculate the electric potential produced by a bipolar electrode equivalent to those typically used in in vitro experiments, and subsequently apply this to the ongoing dynamics of a typical VERTEX simulation.  - How VERTEX can be used to isolate the synaptic and non-synaptic changes that contribute to the change in response LFP during paired pulse stimulation and how theta burst stimulation causes STDP mediated changes in synaptic strength.
-
-
