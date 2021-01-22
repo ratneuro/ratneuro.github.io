@@ -21,7 +21,7 @@ This extension to the VERTEX simulator aims to combine our current knowledge of 
 
 - [Vertex](https://github.com/haeste/Vertex_2)
 
-- A healthy dose of enthusiasm (_essential_)
+- A healthy dose of enthusiasm _(essential)_
 
 ### What can you learn from this guide?
 
