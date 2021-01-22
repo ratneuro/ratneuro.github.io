@@ -29,3 +29,5 @@ Vertex_2-master → ratSomatosensoryCortex → singlePulse.m & pairedPulse.m
 ## 3. Defining electrode shape:
 Example code from VERTEX 2.0:
 Vertex_2-master → ratSomatosensoryCortex → setUpBipolarElectrodeStimulation.m
+> testing block code
+
