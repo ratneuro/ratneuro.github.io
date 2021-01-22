@@ -17,7 +17,7 @@ This extension to the VERTEX simulator aims to combine our current knowledge of 
 
 ### Pre-requisites:
 
-- A program which can run .m files (e.g. MATLAB, Octave)
+- A program which can run .m files (e.g. MATLAB, Octave). If running MATLAB, the Parallel Computing and Partial Differential Equation add-ons will be needed.
 
 - [Vertex](https://github.com/haeste/Vertex_2)
 
