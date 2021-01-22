@@ -1,6 +1,8 @@
 ---
 published: false
 ---
+# Synaptic Plasticity Guide
+
 ## Welcome to synaptic plasticity in VERTEX
 
 Thank you for taking your first steps in understanding synaptic plasticity and how this can be applied in the VERTEX simulator. The following pages offer a guide on the background, relevance and applications of synaptic plasticity. 
