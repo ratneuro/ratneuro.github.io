@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 ---
 # Synaptic Plasticity Guide
 
