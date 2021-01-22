@@ -15,6 +15,14 @@ As an investigatory tool, electric field stimulation has facilitated many import
 
 This extension to the VERTEX simulator aims to combine our current knowledge of the neocortical microcircuit (neuron morphologies, patterns of connectivity, and synaptic properties) with a biophysical model of extracellular electrical stimulation and LFP generation to make a well informed prediction of the synaptic sources contributing to the electrically evoked LFP. As field stimulation experiments often seek to measure or manipulate synaptic efficacy, this guide includes both short term plasticity (STP) and spike time dependent plasticity (STDP) in this release. 
 
+### Pre-requisites:
+
+- A program which can run .m files (e.g. MATLAB, Octave)
+
+- [Vertex](https://github.com/haeste/Vertex_2)
+
+- A healthy dose of enthusiasm
+
 ### What can you learn from this guide?
 
 - How to incorporate the effect of an electric field on the membrane potential of the neuron compartments in our model. This follows the work of Frank Rattay and the implementation of the extracellular mechanism in the Neuron simulator. 
