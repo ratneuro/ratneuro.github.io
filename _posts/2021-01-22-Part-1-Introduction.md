@@ -25,14 +25,17 @@ This extension to the VERTEX simulator aims to combine our current knowledge of 
 
 ### What can you learn from this guide?
 
-- How to incorporate the effect of an electric field on the membrane potential of the neuron compartments in our model. This follows the work of Frank Rattay and the implementation of the extracellular mechanism in the Neuron simulator. 
+[Part 2:](https://ratneuro.github.io/Part-2-STP/) 
+- Defining tissue and model paramaters (with examples).
 
-- Implementing two models of short term synaptic plasticity and spike timing dependent plasticity. 
+- Defining stimulation settings.
 
-- How to use this tool to look at the overall workflow involved in setting up a simulation (including a stimulating electrode and synaptic plasticity), illustrated by an example simulation of stimulation in rat neocortex. 
+- Defining electrode settings. 
 
-- How we calculate the electric potential produced by a bipolar electrode equivalent to those typically used in in vitro experiments, and subsequently apply this to the ongoing dynamics of a typical VERTEX simulation.
+[Part 3:](https://ratneuro.github.io/Part-3-STDP/)
+- Theta burst stimulation.
 
-- How VERTEX can be used to isolate the synaptic and non-synaptic changes that contribute to the change in response LFP during paired pulse stimulation and how theta burst stimulation causes STDP mediated changes in synaptic strength.
+[Part 4:](https://ratneuro.github.io/Part-4-Conclusion/)
+- Summing it all up.
 
-- [Conclusion](https://ratneuro.github.io/conclusion/)
+[Next](https://ratneuro.github.io/Part-2-STP/)
