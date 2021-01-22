@@ -31,4 +31,3 @@ Example code from VERTEX 2.0:
 Vertex_2-master → ratSomatosensoryCortex → setUpBipolarElectrodeStimulation.m
 
 > testing blockquote
-
