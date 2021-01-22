@@ -13,7 +13,7 @@ As an investigatory tool, electric field stimulation has facilitated many import
 
 ### The role of this extension:
 
-This extension to the VERTEX simulator2 aims to combine our current knowledge of the neocortical microcircuit (neuron morphologies, patterns of connectivity, and synaptic properties) with a biophysical model of extracellular electrical stimulation and LFP generation to make a well informed prediction of the synaptic sources contributing to the electrically evoked LFP. As field stimulation experiments often seek to measure or manipulate synaptic efficacy, this guide includes both short term plasticity (STP) and spike time dependent plasticity (STDP) in this release. 
+This extension to the VERTEX simulator aims to combine our current knowledge of the neocortical microcircuit (neuron morphologies, patterns of connectivity, and synaptic properties) with a biophysical model of extracellular electrical stimulation and LFP generation to make a well informed prediction of the synaptic sources contributing to the electrically evoked LFP. As field stimulation experiments often seek to measure or manipulate synaptic efficacy, this guide includes both short term plasticity (STP) and spike time dependent plasticity (STDP) in this release. 
 
 ### What can you learn from this guide?
 
