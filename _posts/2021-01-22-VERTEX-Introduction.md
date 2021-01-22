@@ -9,7 +9,7 @@ Thank you for taking your first steps in understanding synaptic plasticity and h
 
 ### Background:
 
-As an investigatory tool, electric field stimulation has facilitated many important experiments in neurophysiology and is still widely used. It is often used to provoke a population of neurons to fire simultaneously, producing a synaptic response measured in the local field potential (LFP). Alternatively, electrical stimulation can be used as a tool for neuromodulation using open- or closed-loop feedback to change the dynamics of neuronal circuits1. However, interpreting this response potential is made difficult by the large number of possible synaptic sources, as well as by the diverse way in which the field stimulation recruits neurons of various morphologies. 
+As an investigatory tool, electric field stimulation has facilitated many important experiments in neurophysiology and is still widely used. It is often used to provoke a population of neurons to fire simultaneously, producing a synaptic response measured in the local field potential (LFP). Alternatively, electrical stimulation can be used as a tool for neuromodulation using open- or closed-loop feedback to change the dynamics of neuronal circuits. However, interpreting this response potential is made difficult by the large number of possible synaptic sources, as well as by the diverse way in which the field stimulation recruits neurons of various morphologies. 
 
 ### The role of this extension:
 
